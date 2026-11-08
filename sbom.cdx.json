@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:f74e9ab4-6445-5c1a-a93e-b2670d854248",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T20:34:25Z",
+    "component": {
+      "type": "application",
+      "name": "L_WORLDSIM",
+      "version": "1f588ec94699",
+      "bom-ref": "pkg:generic/anticloud/L_WORLDSIM@1f588ec94699",
+      "purl": "pkg:generic/anticloud/L_WORLDSIM@1f588ec94699",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "1f588ec946994614b04abe42faf1d5c3ad9bf3f5"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/SimWorld-AI/SimWorld.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
